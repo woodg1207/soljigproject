@@ -1,5 +1,4 @@
-#README
-
+# READMEㄴ
 - 솔루션 명 : Cool Place
 - 분야
 - 솔루션 개요
